@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/hyperledger/fabric/events/consumer"
+	"github.com/gnietof/chains/events/consumer"
 	"github.com/hyperledger/fabric/protos/common"
 	pb "github.com/hyperledger/fabric/protos/peer"
 	"github.com/hyperledger/fabric/protos/utils"
